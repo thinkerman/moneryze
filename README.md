@@ -89,7 +89,7 @@ moneris.resPurchaseCC({
 - `description`: Optional. A short message attached to the purchase.
 
 ```bash
-moneris.resPurchaseCC({
+moneris.purchase({
   pan: '4242424242424242',
   expdate: '2011',
   amount: 11.98,
